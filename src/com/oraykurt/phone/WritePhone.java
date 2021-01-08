@@ -11,7 +11,7 @@ public class WritePhone {
 
 	WritePhone(String fileName, File file) throws IOException {
 		FileWriter fw = new FileWriter(file);
-		fw.write("+48886079489");
+		fw.write(phoneNum);
 		fw.close();
 	}
 }
