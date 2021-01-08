@@ -7,9 +7,7 @@ import java.io.IOException;
 public class WritePhone {
 	private static final String phoneNum = "+48123456789";
 
-	private String fileName;
-
-	WritePhone(String fileName, File file) throws IOException {
+	WritePhone(File file) throws IOException {
 		FileWriter fw = new FileWriter(file);
 		fw.write(phoneNum);
 		fw.close();

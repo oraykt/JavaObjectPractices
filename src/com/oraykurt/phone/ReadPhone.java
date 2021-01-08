@@ -23,7 +23,7 @@ public class ReadPhone {
 			br.close();
 		} catch (FileNotFoundException e) {
 			try {
-				new WritePhone(fileName, file);
+				new WritePhone(file);
 			} catch (IOException ioException) {
 				ioException.printStackTrace();
 			}
