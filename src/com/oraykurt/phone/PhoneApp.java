@@ -1,8 +1,5 @@
 package com.oraykurt.phone;
 
-import java.awt.geom.Area;
-import java.io.*;
-
 public class PhoneApp {
 
 	public static void main(String[] args) {

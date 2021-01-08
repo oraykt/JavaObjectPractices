@@ -1,7 +1,6 @@
 package com.oraykurt.phone;
 
 import java.io.*;
-import java.lang.invoke.WrongMethodTypeException;
 
 public class ReadPhone {
 
