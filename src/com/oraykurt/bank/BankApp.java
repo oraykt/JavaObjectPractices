@@ -1,4 +1,4 @@
-package com.oraykurt.Bank;
+package com.oraykurt.bank;
 
 public class BankApp {
 

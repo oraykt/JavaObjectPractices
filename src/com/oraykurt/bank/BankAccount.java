@@ -1,4 +1,4 @@
-package com.oraykurt.Bank;
+package com.oraykurt.bank;
 
 public class BankAccount implements IInterest {
 	private static int ID = 1000;

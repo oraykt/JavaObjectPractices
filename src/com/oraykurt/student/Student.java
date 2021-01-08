@@ -1,4 +1,4 @@
-package com.oraykurt.Student;
+package com.oraykurt.student;
 
 public class Student {
 

@@ -1,4 +1,4 @@
-package com.oraykurt.Bank;
+package com.oraykurt.bank;
 
 public interface IInterest {
 	public double rate = 4.5;
